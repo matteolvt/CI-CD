@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "lint": "eslint .",
-    "dev": "node index.js"
+    "dev": "node index.js",
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
