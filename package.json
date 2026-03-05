@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/matteolvt/CI-CD/issues"
   },
-  "homepage": "https://github.com/matteolvt/CI-CD#readme"
+  "homepage": "https://github.com/matteolvt/CI-CD#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
