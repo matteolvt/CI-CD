@@ -1,5 +1,4 @@
-const request = require('supertest')
-const app = require('./app')   
+const request = require('supertest')  
 
 describe('API DevOps Demo', () => {
   test('1+1',() => {
