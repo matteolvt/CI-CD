@@ -14,5 +14,13 @@
   "dependencies": {
     "dotenv": "^17.3.1",
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matteolvt/CI-CD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matteolvt/CI-CD/issues"
+  },
+  "homepage": "https://github.com/matteolvt/CI-CD#readme"
 }
